@@ -1,3 +1,3 @@
 # MachineLearning
-machine_learning_python
-机器学习一些资料
+machine_learning_Octave
+机器学习作业
